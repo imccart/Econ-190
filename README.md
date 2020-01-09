@@ -36,7 +36,7 @@ The course is broadly organized into two parts: one on current issues and one on
 ## Assignments
 Your grade in this class will be determined by weekly homework assignments (no exams). Each assignment is the same and consists of two parts:
 
-1. Before the start of class each week, write down your own understanding of the topic for that week and one question about that topic for which you'd like an answer. You must submit these on Canvas <b>before class<b> each week.
+1. Before the start of class each week, write down your own understanding of the topic for that week and one question about that topic for which you'd like an answer. You must submit these on Canvas <b>before class</b> each week.
 
 2. At the end of each week, try to answer the question you posed and correct any misunderstandings you had at the beginning of the week.
 

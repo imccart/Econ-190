@@ -41,3 +41,5 @@ Your grade in this class will be determined by weekly homework assignments (no e
 2. At the end of each week, try to answer the question you posed and correct any misunderstandings you had at the beginning of the week.
 
 Full credit will be given for completing both parts to each assignment. There are no wrong answers. There will be at least 12 assignments in the semester, 10 of which will go toward your final grade. That means you should get 2 weeks to miss an assignment. Please use those sparingly!
+
+I've compiled the most common/pressing questions throughout the semester and some short answers [here](weekly-questions.html). My hope is that this link serves as a comprehensive guide for all the things we discuss over the course of the semester.

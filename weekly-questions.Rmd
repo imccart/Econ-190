@@ -1,0 +1,90 @@
+---
+title: "Weekly Questions and Answers"
+author: "Econ 372: Economics of Health Care Markets"
+date: "Last Update: 1/24/2020"
+output: 
+  html_document:
+    toc: TRUE
+    toc_float: TRUE
+    toc_depth: 1
+    theme: darkly
+    number_sections: FALSE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse, ggplot2, dplyr, lubridate, readr, readxl, hrbrthemes,
+               scales, gganimate, gapminder, gifski, png, tufte, plotly, OECD,
+               ggrepel)
+
+```
+
+# Overview 
+Here, I've compiled some of the most common/relevant questions from your weekly submissions, along with some of our collective responses from class. The goal is that this will serve as a reference throughout the semester and help document all of discussions over the next several weeks.
+
+# Private Insurance and Access {.tabset}
+
+## Questions
+1. What percentage of people in the United States have private health insurance? How do private insurance companies cover their customers? Under what circumstances does your job cover health insurance? In general, what types of jobs offer it?
+2. How does the Affordable Care Act affect individuals getting private health insurance? Why was the policy that large companies must provide health insurance through a private company originally created? How is private insurance regulated and how does it compete with government-funded insurance companies? 
+3. What are different types of plans or options that are available to people from most health insurance providers? How do coverage plans vary vs. how is it streamlined across employers? How do private insurance plans differentiate themselves? How does [private health insurance] make itself accessible to those with limited incomes?
+4. Because those with private insurance are limited to the hospitals within network, are people with Medicare or Medicaid limited to specific hospitals?
+5. I wonder if there is communication between the large healthcare companies to communicate on pricing. 
+6. If the government spends so much money on healthcare, why can't more surgeries/ procedures be covered in the insurance?
+7. How could the private insurance market shift towards making healthcare more accessible for those who can't afford insurance? 
+8. How would Medicare for All or Public Option healthcare plans change the issue of limited coverage in insurance plans? What will the role of the private sector be if the democratic Medicare-for-all proposals are put in action?
+9. What is the best way to remedy the issue caused by the prevalence of private health insurance in the Untied States? 
+
+## Answers
+1. What percentage of people in the United States have private health insurance? How do private insurance companies cover their customers? Under what circumstances does your job cover health insurance? In general, what types of jobs offer it? <br>
+
+In 2018, about 50% of people received insurance through their employer, 6% of people purchased insurance directly from a plan (e.g., through the ACA exchange), 20% received insurance from Medicaid, 14% through Medicare, and 9% remained uninsured. The ACA introduced requirements for large employers to offer health insurance coverage, but historically, there have been strong incentives in place to encourage employer-provided insurance. For example, a dollar in health insurance coverage is not taxed, so it is worth more than a dollar in salary (for some workers).
+
+Private insurance "coverage" simply means that the insurer agrees to pay some portion of your health care costs. That portion will vary by plan and may also vary by provider (i.e., the insurer may negotiate a better rate at one hospital versus another).
+
+
+2. How does the Affordable Care Act affect individuals getting private health insurance? Why was the policy that large companies must provide health insurance through a private company originally created? How is private insurance regulated and how does it compete with government-funded insurance companies?<br>
+
+The ACA created the health insurance exchanges, which is essentially a set of rules and subsidies to help create a "market" for private health insurance when people don't already receive health insurance through some other option (e.g., employer, Medicare, Medicaid). Because private insurers and people were scared about the possiblity of losing their existing insurance plan, the ACA also had policies to maintain the current employer-sponsored plans. That's partly why the ACA mandates large employers to offer health insurance.
+
+There are no major government-funded insurance "companies" but there are government insurance programs such as Medicare and Medicaid. These programs compete with private insurance in a couple of ways that we'll discuss more throughout the semester.
+
+
+3. What are different types of plans or options that are available to people from most health insurance providers? How do coverage plans vary vs. how is it streamlined across employers? How do private insurance plans differentiate themselves? How does [private health insurance] make itself accessible to those with limited incomes?<br>
+
+
+The ACA established a set of minimum essential benefits, which are coverage requirements that insurers must maintain in order to be eligible for subsidies. Employer-sponsored insurance also has to meet these requirements, otherwise the employer will not meet the requirement for offering health insurance and be penalized accordingly. But even among the minimum essential benefits, there is a lot of variation in monthly premiums, deductibles, copayments, coinsurance, networks, and prescription drug formularies. There is also variation in customer service and the extent to which insurers deny certain claims (e.g., because a given procedure wasn't justified based on the coding in the claim). 
+
+
+
+4. Because those with private insurance are limited to the hospitals within network, are people with Medicare or Medicaid limited to specific hospitals?<br>
+
+Traditional Medicare has no network requirements - patients can go to any hospital or physician they choose. The same is true for traditional Medicaid. However, physicians can (and do) refuse new patients if they are already at capacity, and there is some research showing that Medicaid patients have a particularly hard time making appointments with certain types of physicians (like primary care physicians). Also, a large share of Medicare (over 30%) patients actually receive health insurance through a private insurer via Medicare Advantage. Many states now also use private insurers to cover their Medicaid patients. So in those instances, patients often have the same network restrictions that you see in the standard private insurance market.
+
+
+5. I wonder if there is communication between the large healthcare companies to communicate on pricing.<br>
+
+Not that I'm aware of. Hospitals are extremely reluctant to publish their negotiated prices.
+
+
+6. If the government spends so much money on healthcare, why can't more surgeries/procedures be covered in the insurance?<br>
+
+I think the US is pretty generous on average when it comes to what procedures someone will be able to get. That said, insurers certainly don't want to spend money if they don't have to, so there are some denials or at least push-back from the insurer until they are satisfied with the documentation. *The Healing of America* is an interesting book that addresses some of these issues, where the author talks about trying to access the health care systems of several different countries.
+
+I also would clarify that it's not "the government" that necessarily spends so much on health care. The US government probably spends a lot less than some other governments, but that's because a big part of health care bills in the US are covered by individuals and employers.
+
+
+7. How could the private insurance market shift towards making healthcare more accessible for those who can't afford insurance?<br>
+
+There's not much of an incentive for insurers to do this on their own, so it's a classic case in which some form of government involvement could improve outcomes. The ACA tried to do this by offering large subsidies to individuals on the exchanges. It's hard to evaluate how well things have gone because the ACA has been heavily edited since its passage, with some cost sharing subsidies removed entirely.
+
+
+8. How would Medicare for All or Public Option healthcare plans change the issue of limited coverage in insurance plans? What will the role of the private sector be if the democratic Medicare-for-all proposals are put in action?<br>
+
+It's not clear what anyone means when they say "Medicare-for-all" at this point. Same with a public option. The effects of these things depend crucially on the details of the plans themselves. I think there are ways to implement these ideas without drastically affecting the private insurance market, if that is the goal.
+
+
+9. What is the best way to remedy the issue caused by the prevalence of private health insurance in the Untied States?<br>
+
+Not sure that private health insurance is, by itself, an "issue". The problems in the US health care system involve access to care and high costs. Our fragmented system with different insurance structures (Medicare, Medicaid, employer-sponsored private insurance, individual private insurance) contributes to these problems, as does a lack of competition among insurers and health care providers, but just the presence of private insurance isn't a culprit as far as I can tell.

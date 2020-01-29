@@ -88,3 +88,67 @@ It's not clear what anyone means when they say "Medicare-for-all" at this point.
 9. What is the best way to remedy the issue caused by the prevalence of private health insurance in the Untied States?<br>
 
 Not sure that private health insurance is, by itself, an "issue". The problems in the US health care system involve access to care and high costs. Our fragmented system with different insurance structures (Medicare, Medicaid, employer-sponsored private insurance, individual private insurance) contributes to these problems, as does a lack of competition among insurers and health care providers, but just the presence of private insurance isn't a culprit as far as I can tell.
+
+
+# Medicare {.tabset}
+
+## Questions
+1.	What are the requirements that allows people to be eligible for Medicare? What are the different parts of a medicare plan and the extent of their coverages? What are the costs associated with it?
+
+2.	What are the consequences of "running out of social security" and what would also be the impact and consequences of expanding coverage so medicare includes all members of society? How is Medicare going to provide care for an increasing population of baby boomers with a disproportionate number of youths in the workforce?
+
+3.	How is the quality of medicare compared to the government provided health insurance used by middle aged people?
+
+4.	If I die before age 65 after paying my social security taxes for a couple of years, I will not be able to benefit from medicare. Will my family be able to claim the taxes I paid?
+
+5.	I would like to further understand how different plans interact with each other, and why certain seemingly necessary benefits did not make the cut into Parts A & B.
+
+6.	How did the Affordable Care Act impact the Medicare Program in general, and specifically the Medicare Advantage Plan? Additionally, what will Medicare probably look like in 20 or 30 years from now?
+
+7.	Would it be beneficial to take out a portion of paychecks received by people before retirement and the working class in order to fund medicare health insurance once retired and reduce out of pocket and total costs. What would be the consequences?
+
+8.	How much additional economic strain is put on American citizens in the form of taxes to help pay for Medicare, and how does this additional strain compare to the resulting quality of care received by Medicare recipients?
+
+## Answers
+1.	What are the requirements that allow people to be eligible for Medicare? What are the different parts of a medicare plan and the extent of their coverages? What are the costs associated with it?<br>
+
+This is more complicated than you might think because Medicare is not just one product. We have four parts: Medicare Parts A, B, C, and D. Everyone who has worked for 10 years and paid Social Security and Medicare payroll taxes during that time will be eligible for Medicare Part A when they turn 65. They can also enroll in Medicare Part B, which requires a monthly premium. This premium is about $140 a month right now. 
+
+People also have to pay a deductible and copayments/co-insurance. The Part A deductible is about $1,400. The first 60 days of inpatient care are covered with this deductible. Beyond that, people have to pay <span>&#36;</span>352 per day in the hospital (this is a copayment). Beyond 90 days in the hospital, beneficiaries can use up to 30 "lifetime reserve" days, at <span>&#36;</span>704 per day. And if those lifetime reserve days are all spent, then inpatient stays beyond 90 days are not reimbursed at all (patient has to pay the full price).
+
+
+
+2.	What are the consequences of "running out of social security" and what would also be the impact and consequences of expanding coverage so medicare includes all members of society? How is Medicare going to provide care for an increasing population of baby boomers with a disproportionate number of youths in the workforce?<br>
+
+Not sure what it means to "run out of social security". Once you begin drawing social security benefits, you receive those benefits for life. There could be issues in funding those social security benefits over time, but that would need to be fixed through some change in legislation or additional federal debt. 
+
+Paying for Medicare and other retirement benefits is definitely a concern. Right now, our government doesn't seem to have any solutions for this. They've made some small tweaks, like increasing the "full retirement age". They also keep increasing cost-sharing, with higher copayments, etc. So without any large scale changes, that's probably the easiest way to deal with things.
+
+
+3.	How is the quality of medicare compared to the government provided health insurance used by middle aged people?<br>
+
+There is no government provided health insurance (other than Medicaid) for middle-aged people. For the most part, I think that people tend to like Medicare.
+
+
+4.	If I die before age 65 after paying my social security taxes for a couple of years, I will not be able to benefit from medicare. Will my family be able to claim the taxes I paid?<br>
+
+Social Security, yes. But not Medicare. That kind of makes sense because you only see the value of Medicare taxes if you use health care. So Medicare would have the same expenditures whether you die before 65 or you live past 65 but just don't use health care. 
+
+
+
+5.	I would like to further understand how different plans interact with each other, and why certain seemingly necessary benefits did not make the cut into Parts A & B.<br>
+
+That's a good question.
+
+
+6.	How did the Affordable Care Act impact the Medicare Program in general, and specifically the Medicare Advantage Plan? Additionally, what will Medicare probably look like in 20 or 30 years from now?<br>
+
+The ACA did a few things to Medicare and Medicare Advantage. First, it introduced a couple of pay-for-performance programs into Medicare's payment formulas. Second, it closed the "donut hole" in Medicare Part D plans. Third, it increased the Medicare payroll tax for people with sufficiently high incomes. And fourth, it introduced a quality improvement program in Medicare Advantage plans, where payments to insurance companies is tied to their quality ratings.
+
+
+
+7.	How much additional economic strain is put on American citizens in the form of taxes to help pay for Medicare, and how does this additional strain compare to the resulting quality of care received by Medicare recipients?<br>
+
+Not sure that "strain" is the right word, but for most people the Medicare payroll tax is 1.45% of income. Employers also match 1.45%, so the total Medicare payroll tax is 2.9%. For individuals making over $200,000, employers have to pay an additional 0.9% Medicare tax for all wages over the 200,000 makr.
+
+Medicare beneficiaries generally receive the same quality of care that someone with employer-provided insurance coverage would receive, as doctors and hospitals don't usually treat these groups of patients differently based on insurance. There are some findings of reduced access to care for Medicaid patients (because Medicaid has very low payment rates), but not so much with Medicare.

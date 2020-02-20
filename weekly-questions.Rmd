@@ -284,3 +284,53 @@ I don't see how something like "Medicare for All" could coexist with the ACA. Th
 
 The monetary penalty for employers to not offer health insurance (large employers are the only ones subjected to the penalty) is substantial, and there's a labor market effect in that employees still expect insurance through their employer. So we haven't seen this happen at any kind of large scale. There is some anecdotal evidence of large employers changing the nature of some jobs (moving from full time to part time) in order to avoid offering health insurance, but on average, this has not been a common strategy among employers.
 
+
+# Hospital pricing {.tabset}
+
+## Questions
+1.	How is hospital pricing regulated and determined? Does the government have some say in how much they charge patients and insurance companies?
+
+2.	If not competition, what drives the high prices in hospitals? Are increasing labor costs the primary source of why hospital prices continue to rise, or is it other fixed/variable costs that cause this?
+
+3.	What, if any, impact do the prices of pharmaceutical drugs have on hospital pricing?
+
+4.	What can the government do to foster competition between hospitals to lower pricing? What will this do to quality of care? What efforts are legislators making to try and lower hospital prices? Or is it not something they would be able to regulate effectively?
+
+5.	What determines the disparity in hospital prices among different hospitals?
+
+6.	How much does a doctor's pay depend on the number of operations or the money paid by patients and their insurance providers? Are insurance providers creating an incentive to drive prices higher if patients don't have to cover a large portion of the cost?
+
+7.	What areas could hospitals cut costs in to save money without decreasing the quality of care? Why they don't make an effort to cut costs in these areas?
+
+## Answers
+1.	How is hospital pricing regulated and determined? Does the government have some say in how much they charge patients and insurance companies?<br>
+
+Not much. The government has a lot of say in Medicare and Medicaid prices, but not much in hospital prices. That said, hospital prices are negotiated with private insurance companies, so hospitals can't unilaterally set the price. But in practice, prices are still very high.
+
+
+2.	If not competition, what drives the high prices in hospitals? Are increasing labor costs the primary source of why hospital prices continue to rise, or is it other fixed/variable costs that cause this?<br>
+
+Competition would tend to drive prices down. We have very little competition in the U.S. health care system, and so we have very little downward pressure on prices. Our system is *designed* as a market-based health care system, but the "market" is extremely concentrated and therefore doesn't obtain some of the outcomes we would expect in a more competitive system.
+
+3.	What, if any, impact do the prices of pharmaceutical drugs have on hospital pricing?<br>
+
+My guess is not much. The bulk of pharmaceutical drugs aren't administered in a hospital and so high pharma prices don't tend to pass down into hospital prices. 
+
+4.	What can the government do to foster competition between hospitals to lower pricing? What will this do to quality of care? What efforts are legislators making to try and lower hospital prices? Or is it not something they would be able to regulate effectively?<br>
+
+There are lots of things the government can do. Some things are obvious like removing certificate of need laws, allowing federal oversight of proposed mergers, and changing laws regarding enforceability non-compete contracts.
+
+
+5.	What determines the disparity in hospital prices among different hospitals?<br>
+
+One big factor is competition in local markets and differential market power within markets. For example, Emory University hospital is a bigger player in Atlanta and can probably negotiate a higher price for the same insurer than some other smaller hospital (this is just speculation, I don't know this to be true).
+
+
+6.	How much does a doctor's pay depend on the number of operations or the money paid by patients and their insurance providers? Are insurance providers creating an incentive to drive prices higher if patients don't have to cover a large portion of the cost?<br>
+
+For a private practice, physician pay is determined solely by the revenue from their practice, which means money received from insurers and patients for their services. For salaried physicians (members of a large group practice or those employed by hospitals), pay is related to these services but not directly tied to quantity of services provided. 
+The fact that patients may not have to pay much at the point of care could introduce some aspect of moral hazard or "overuse" of some services. But this dynamic really only applies to the short run (i.e., within the year in which my insurance policy is fixed). Patients still pay their premiums, so patients have to pay for higher prices in the medium and long term.
+
+7.	What areas could hospitals cut costs in to save money without decreasing the quality of care? Why they don't make an effort to cut costs in these areas?<br>
+
+We talked about some examples of clear overuse where some physicians are using way more of a very specific product relative to their peers. But more generally, there is very little incentive to cut costs from the hospital's perspective. 

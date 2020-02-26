@@ -1,7 +1,7 @@
 ---
 title: "Weekly Questions and Answers"
 author: "Econ 190: Economics of Health Care Markets"
-date: "Last Update: 2/13/2020"
+date: "Last Update: 2/26/2020"
 output: 
   html_document:
     toc: TRUE
@@ -334,3 +334,55 @@ The fact that patients may not have to pay much at the point of care could intro
 7.	What areas could hospitals cut costs in to save money without decreasing the quality of care? Why they don't make an effort to cut costs in these areas?<br>
 
 We talked about some examples of clear overuse where some physicians are using way more of a very specific product relative to their peers. But more generally, there is very little incentive to cut costs from the hospital's perspective. 
+
+
+# Spending and "Waste" {.tabset}
+
+## Questions
+
+1.	What is the most wasted component in US healthcare? How much money goes to "waste" per year in the US?
+
+2.	Does the federal government have any control in limiting wasteful spending? If so, how would these policies be enforced?
+
+3.	Why does wasteful spending happen in healthcare when its cost is already expensive?
+
+4.	Do healthcare providers make profits from "waste" off patients?
+
+5.	What are the most popular ideas to remove wasteful spending (in the health care market) under a Medicare-for-All type plan, and how effective would these methods likely be?
+
+6.	How did a system so wasteful come to be? Are there any incentives on the part of hospitals and insurance companies to decrease their waste, and if so, why does wasteful spending remain so prevalent?
+
+7.	Would moving to a single payer system reduce administrative costs and complexity which constitutes a major part of waste in the US healthcare system?
+
+## Answers
+1.	What is the most wasted component in US healthcare? How much money goes to "waste" per year in the US?<br>
+
+The general estimate is that as much as 30% of our health care expenditures are "waste". A big part of this is in administrative costs, some smaller portion is in "overtreatment", and even smaller portions are in "fraud" and physician salaries.
+
+2.	Does the federal government have any control in limiting wasteful spending? If so, how would these policies be enforced?<br>
+
+Somewhat. Through our payment policies, we can encourage more efficient delivery. We also have several policies to reduce "fraud", which is clearly an area of waste.
+
+
+3.	Why does wasteful spending happen in healthcare when its cost is already expensive?<br>
+
+The biggest areas of waste (administrative waste and overtreatment) come from the system itself. We encourage more care whenever possible in the way we pay for things, and our extremely fragmented insurance and delivery system introduces a lot of administrative issues into the system. It costs money to deal with these administrative complexities, and those costs are passed down in the form of higher prices.
+
+4.	Do healthcare providers make profits from "waste" off patients?<br>
+
+If we're talking about "waste" in the form of additional treatment for which the marginal benefit exceeds the marginal cost, then yes. Hospitals still get paid for that and so they are making more money.
+
+
+5.	What are the most popular ideas to remove wasteful spending (in the health care market) under a Medicare-for-All type plan, and how effective would these methods likely be?<br>
+
+The biggest area of reduction is in administrative waste. By moving to a single health care plan or single umbrella structure, the administrative issues should simplify.
+
+6.	How did a system so wasteful come to be? Are there any incentives on the part of hospitals and insurance companies to decrease their waste, and if so, why does wasteful spending remain so prevalent?<br>
+
+We have very little cost-saving incentives in our system. Most of the incentives are to do more...very little incentive to do less or cut costs.
+
+
+7.	Would moving to a single payer system reduce administrative costs and complexity which constitutes a major part of waste in the US healthcare system?<br>
+
+It would definitely reduce administrative costs. That's one area where there is agreement among most people in this debate. There's still some disagreement as to *how much* of a reduction we could expect. 
+

@@ -21,16 +21,18 @@ The course is broadly organized into two parts: one on current issues and one on
 7. Health Care Spending and Waste, [Documentary: Money and Medicine](https://www.imdb.com/title/tt2265441/). Also take a look at the New York Times Article that questions the use of Medicare spending to identify efficient health care delivery areas, [The Experts Were Wrong...](https://www.nytimes.com/interactive/2015/12/15/upshot/the-best-places-for-better-cheaper-health-care-arent-what-experts-thought.html)
 
 8. Health Care Inequalities, [Documentary: Take Care, Mr. Elson](https://www.nytimes.com/video/us/100000003738139/health-insurance-after-aca.html)
+  - A brief study of the dialysis industry, [Acquisitions and Firm Behavior](https://faculty.fuqua.duke.edu/~rcm26/ESRD_mergers.pdf). 
 
-9. The Future of the Affordable Care Act, [Podcast: ACA Still Under A Cloud After Court Ruling](https://open.spotify.com/episode/3T3PdH9RwgMzH3GIGtNGkx?si=Sfea7IkfQvaVLATvqUO-Fw)
+9. Medicare for All, [Podcast: All About Medicare for All](https://open.spotify.com/episode/17m9aRV32P394uSdu1sikz?si=iFHUv-zTTAmv5jltIaP8bA)
+  - Check out the fun [online tool](http://shift.cidma.us/) from the Lancet article, Improving the prognosis of health care in the USA.
 
-10. Opioids, [Video: Overcoming Opiods, Paths to Progress](https://www.nihcm.org/categories/overcoming-opioids-paths-to-progress)
+10. The Future of the Affordable Care Act, [Podcast: ACA Still Under A Cloud After Court Ruling](https://open.spotify.com/episode/3T3PdH9RwgMzH3GIGtNGkx?si=Sfea7IkfQvaVLATvqUO-Fw)
 
-11. Surprise Billing, [Podcast: Who Will Pay To Vis Problems Of Surprise Medical Bills?](https://open.spotify.com/episode/0WOjHFHuUV2PfHpgcfMD6f?si=Yq-2uYk2TIKLmN1pAOerZQ)
+11. Opioids, [Video: Overcoming Opiods, Paths to Progress](https://www.nihcm.org/categories/overcoming-opioids-paths-to-progress)
 
-12. Redesigning Health Insurance, [Podcast: The Good Stuff](https://open.spotify.com/episode/7zrWJhnAVh3CU9O9GAqCDm?si=9n0eMnp8QQGCG1B3jgrPeQ)
+12. Surprise Billing, [Podcast: Who Will Pay To Vis Problems Of Surprise Medical Bills?](https://open.spotify.com/episode/0WOjHFHuUV2PfHpgcfMD6f?si=Yq-2uYk2TIKLmN1pAOerZQ)
 
-13. Medicare for All, [Podcast: All About Medicare for All](https://open.spotify.com/episode/17m9aRV32P394uSdu1sikz?si=iFHUv-zTTAmv5jltIaP8bA)
+13. Redesigning Health Insurance, [Podcast: The Good Stuff](https://open.spotify.com/episode/7zrWJhnAVh3CU9O9GAqCDm?si=9n0eMnp8QQGCG1B3jgrPeQ)
 
 
 ## Assignments

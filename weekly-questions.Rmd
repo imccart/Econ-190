@@ -386,3 +386,58 @@ We have very little cost-saving incentives in our system. Most of the incentives
 
 It would definitely reduce administrative costs. That's one area where there is agreement among most people in this debate. There's still some disagreement as to *how much* of a reduction we could expect. 
 
+
+# Inequalities {.tabset}
+
+## Questions
+1.	What types of inequalities are there and are there any laws that protects people from them in the healthcare system?
+
+2.	To what extent do the public insurance options effectively bridge the gap of inequality in healthcare? Have there been successful efforts to close this gap?
+
+3.	How expensive would it be to provide health care to those who make too much for Medicaid but too little to afford their own plan?
+
+4.	 If a situation where a foreign national arrives in a hospital and they are unable to pay will they be treated?
+
+5.	 How does the structure of the U.S. health care system promote/affect income inequality and health disparities? How well did the ACA do in addressing these?
+
+6.	Would elimination of corporate sponsored plans and introduction of “Medicare for all” reduce healthcare inequality in the US?
+
+## Answers
+1. What types of inequalities are there and are there any laws that protects people from them in the healthcare system?<br>
+
+I think the biggest inequality is in the limited access to health care due to income constraints. If someone is uninsured or "underinsured", and they have a major chronic condition such as diabetes, they may not receive the necesssary treatment. In other words, higher income people can extend their lives and maintain their health moreso than lower income people due to more generous health insurance.
+
+2. To what extent do the public insurance options effectively bridge the gap of inequality in healthcare? Have there been successful efforts to close this gap?<br>
+
+For states with broad Medicaid coverage, I would say yes. It hasn't closed the gap because there are other issues that aren't directly attributable to health insurance, but expanding Medicaid has certainly helped. Medicare has similarly helped among those over 65.
+
+
+3. How expensive would it be to provide health care to those who make too much for Medicaid but too little to afford their own plan?<br>
+
+These types of households are directly addressed as part of the ACA exchanges. In the exchanges, there are subsidies determined partly on income, so housholds with less income receive a higher subsidy.
+
+
+4. If a situation where a foreign national arrives in a hospital and they are unable to pay will they be treated?<br>
+
+I think that depends on what needs to be done. Hospitals must "stabalize" anyone coming in, regardless of citizenship status. Some hospitals may also be more or less generous, which is just a hospital-specific policy. 
+
+
+5. How does the structure of the U.S. health care system promote/affect income inequality and health disparities? How well did the ACA do in addressing these?<br>
+
+We rely on private insurance through employers for most people, which necessarily leaves some people out of the "good" health insurance market. People left out of that market include part-time workers, independent contractors, self-employed workers, or the unemployed. Some of these people may be eligible for Medicaid, but as we've discussed, Medicaid eligibility varies by states. The ACA attempted to help by expanding Medicaid and creating a private insurance exchange for people ineligible for Medicaid but not covered by the employer plans.
+
+
+6. Would elimination of corporate sponsored plans and introduction of “Medicare for all” reduce healthcare inequality in the US?<br>
+
+I think there's little question that such a policy would reduce inequality. The question is how much would this cost and how much would the system differ for people doing "well" in the current system. 
+
+If a Medicare for all system doesn't change payments, then it would be very expensive. If it reduces payments to improve access to care, then how much would that affect quality of care and future innovation?
+
+
+## Class Discussion
+1. How do we pay for health insurance now? [KFF Employer Health Benefits Survey](https://www.kff.org/report-section/ehbs-2019-summary-of-findings/).
+
+
+2. Let's work with the online cost/utilization tool. How do these different dimensions affect spending?
+
+3. What about quality?

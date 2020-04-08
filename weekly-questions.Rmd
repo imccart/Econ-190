@@ -1,7 +1,7 @@
 ---
 title: "Weekly Questions and Answers"
 author: "Econ 190: Economics of Health Care Markets"
-date: "Last Update: 2/26/2020"
+date: "Last Update: 4/8/2020"
 output: 
   html_document:
     toc: TRUE
@@ -449,3 +449,7 @@ Questions and our virtual class discussion are all available at the following li
 # Future of the ACA
 
 Questions and our virtual class discussion are all available at the following link: [Zoom Class, Wednesday April 1](https://drive.google.com/open?id=1SBf4oAFCZuuv8FtDyGUsBJhOQY7tgRuK).
+
+# Surprise Billing
+
+Questions and our virtual class discussion are all available at the following link: [Zoom Class, Wednesday April 8](https://drive.google.com/open?id=19E6AW4XCowCznpCZjQXsXVzf4zLpWQix).
